@@ -1,3 +1,4 @@
+                                              ![](fire.gif)
+
 # Doom Fire JavaScript
 
-![](fire.gif)
